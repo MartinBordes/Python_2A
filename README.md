@@ -30,9 +30,9 @@ Le notebook [Preprocessing.ipynb](Preprocessing.ipynb) effectue le preprocessing
 ## C. Modélisation
 
 Nous entraînons trois modèles d'apprentissage supervisé différents dans trois notebooks différents:
-* 1) Gaussian/Multinomial Naive Bayes : [GaussianNB_model.ipynb](GaussianNB_model.ipynb)
-* 2) Multinomial Naive Bayes Semi-Supervised : [MultinomialNB_model.ipynb](MultinomialNB_model.ipynb)
-* 3) Logistic Regression : [LogisticRegression_model.ipynb](LogisticRegression_model.ipynb)
+1) Gaussian/Multinomial Naive Bayes : [GaussianNB_model.ipynb](GaussianNB_model.ipynb)
+2) Multinomial Naive Bayes Semi-Supervised : [MultinomialNB_model.ipynb](MultinomialNB_model.ipynb)
+3) Logistic Regression : [LogisticRegression_model.ipynb](LogisticRegression_model.ipynb)
 
 Méthodes de feature extraction utilisées : 
 * Count Vectorizer
